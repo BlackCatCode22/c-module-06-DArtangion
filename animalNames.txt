@@ -1,0 +1,20 @@
+Hyena; Kuro
+Hyena; Zuri
+Hyena; Juma
+Hyena; Nala
+Hyena; Kamari
+Lion; Simba
+Lion; Nala
+Lion; Mufasa
+Lion; Kiara
+Lion; Zazu
+Tiger; Shere Khan
+Tiger; Tigger
+Tiger; Rajah
+Tiger; Leo
+Tiger; Sita
+Bear; Baloo
+Bear; Yogi
+Bear; Kodiak
+Bear; Grizz
+Bear; Winnie
